@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "686621058479",
+    "project_id": "easygrade-a2678",
+    "storage_bucket": "easygrade-a2678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686621058479:android:a35d70c893f73ed393bb5a",
+        "android_client_info": {
+          "package_name": "com.app.easygrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686621058479-423gupfiev5g98n8lml4d0et6v844281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7bHBQbXLkR-hK4_TbAD2talZewDm-FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686621058479-423gupfiev5g98n8lml4d0et6v844281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686621058479-vbpg1o5rnj3hvmtq53vrg0m8u0k74fio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easyGrade"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686621058479:android:3e7922293851b19c93bb5a",
+        "android_client_info": {
+          "package_name": "com.app.easygrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686621058479-8v1h8muhsujhrq8e32ufeba3b2c3jrlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.easygrade",
+            "certificate_hash": "56bc7a5f86485b88966e9d4cf755e742722ec554"
+          }
+        },
+        {
+          "client_id": "686621058479-423gupfiev5g98n8lml4d0et6v844281.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC7bHBQbXLkR-hK4_TbAD2talZewDm-FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686621058479-423gupfiev5g98n8lml4d0et6v844281.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "686621058479-vbpg1o5rnj3hvmtq53vrg0m8u0k74fio.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.easyGrade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
